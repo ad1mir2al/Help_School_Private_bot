@@ -1,6 +1,3 @@
-
-
-
  <!DOCTYPE html>
  <html>
  <head>
@@ -14,5 +11,6 @@
  <p1>Вот мое расписание:</p1>
  <span>1. Покушать</span>
  <span>2. Поспать</span>
+ <span>2. Написать код в Гитхабе</span>
  </body>
  </html>
